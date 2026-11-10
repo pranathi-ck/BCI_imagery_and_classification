@@ -1,0 +1,30 @@
+
+# Original EEG dataset - do not upload
+extracted/
+MI_dataset/
+*.npz
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# MATLAB temporary and backup files
+*.asv
+*.m~
+slprj/
+codegen/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
